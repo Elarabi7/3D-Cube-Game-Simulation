@@ -1,0 +1,79 @@
+E:\Project\Project\bin\Debug\Project.exe.config
+E:\Project\Project\bin\Debug\Project.exe
+E:\Project\Project\bin\Debug\Project.pdb
+E:\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Project\Project\obj\Debug\Project.exe
+E:\Project\Project\obj\Debug\Project.pdb
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\bin\Debug\Project.exe.config
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\bin\Debug\Project.exe
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\bin\Debug\Project.pdb
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\obj\Debug\Project.exe
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\obj\Debug\Project.pdb
+D:\Dodo\graphics 2\Project\Project\Project\bin\Debug\Project.exe.config
+D:\Dodo\graphics 2\Project\Project\Project\bin\Debug\Project.exe
+D:\Dodo\graphics 2\Project\Project\Project\bin\Debug\Project.pdb
+D:\Dodo\graphics 2\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Dodo\graphics 2\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Dodo\graphics 2\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Dodo\graphics 2\Project\Project\Project\obj\Debug\Project.exe
+D:\Dodo\graphics 2\Project\Project\Project\obj\Debug\Project.pdb
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\bin\Debug\Project.exe.config
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\bin\Debug\Project.exe
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\bin\Debug\Project.pdb
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\obj\Debug\Project.exe
+F:\Computer Science\Semester 7\Graphics 2\Project\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\ahmed\OneDrive\Desktop\Project\Project\Project\Project\obj\Debug\Project.Form1.resources
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\bin\Debug\Project.exe.config
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\bin\Debug\Project.exe
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\bin\Debug\Project.pdb
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\obj\Debug\Project.Form1.resources
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\obj\Debug\Project.exe
+D:\College\semester 7\graphics\project\Project\Project\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\Moeme\Desktop\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Moeme\Desktop\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\Moeme\Desktop\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\Moeme\Desktop\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Moeme\Desktop\Project\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moeme\Desktop\Project\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Moeme\Desktop\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Moeme\Desktop\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Moeme\Desktop\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Moeme\Desktop\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\Moeme\Desktop\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\kemoa\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\kemoa\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\kemoa\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\kemoa\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\kemoa\Desktop\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemoa\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\kemoa\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\kemoa\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\kemoa\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\kemoa\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\kemoa\Desktop\Project\Project\obj\Debug\Project.pdb
